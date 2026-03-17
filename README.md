@@ -1,6 +1,6 @@
 # Name
 Millicent Gitau 
-# Registratiin No.
+# Registration No.
 EB3/67229/23
 # Algorithms-
 Sorting Algorithms
